@@ -1,0 +1,98 @@
+The Frontend Portfolio Trilogy: Technical Blueprints
+
+Project 1: Lumina — Strategic Wealth & Asset OS
+
+Focus: Data Visualisation, Performance, and Premium UI/UX.
+Estimated Cost: 0 Yen (Zero-Cost Stack).
+
+Detailed Features
+
+Net Worth Engine: Real-time calculation of portfolio value across diverse asset classes (Stocks, Crypto, Cash).
+
+Glassmorphism UI: A high-end dark theme using backdrop-blur, thin borders, and Geist typography.
+
+Privacy Mode: A global state toggle that blurs all sensitive financial data using a CSS filter.
+
+Optimistic Trading: Instant UI feedback when adding/removing assets using React useOptimistic.
+
+Development Phases
+
+Phase 1: Secure Infrastructure (8h): Setup Next.js 14, Clerk Auth, and Prisma/Neon DB schema.
+
+Phase 2: The Design System (12h): Build the responsive sidebar, glass-cards, and custom Tailwind configuration.
+
+Phase 3: The Ledger & CRUD (15h): Implement Server Actions for asset management and real-time data fetching.
+
+Phase 4: Motion & Command (15h): Add Framer Motion staggered transitions and the CMD+K search palette.
+
+Phase 5: Performance Tuning (10h): 100/100 Lighthouse audit, image optimization, and edge deployment.
+
+Project 2: Aether — Collaborative Spatial Audio Lab
+
+Focus: Real-time APIs, Web Audio, and Multiplayer Sync.
+Estimated Cost: 0 Yen (Zero-Cost Stack).
+
+Detailed Features
+
+Spatial Audio Engine: A 2D grid where distance between the "Listener" and "Source" icons controls volume and stereo panning.
+
+Multiplayer Presence: See other users' cursors and their sound node adjustments in real-time.
+
+Frequency Visualizers: High-performance Canvas-based waves that react to the audio's bit-stream.
+
+BPM Sync: A shared clock that keeps all audio nodes playing in time across different users.
+
+Development Phases
+
+Phase 1: Web Audio Base (10h): Connect AudioContext, create oscillator nodes, and handle basic play/stop logic.
+
+Phase 2: Spatial Mapping (12h): Calculate distance formulas (Pythagorean theorem) to map UI (x, y) coordinates to Audio Panner nodes.
+
+Phase 3: Multiplayer Sync (15h): Integrate Liveblocks to sync the position of every icon on the grid for all users.
+
+Phase 4: Visualizer Lab (15h): Use AnalyserNode to pull real-time frequency data into a 60FPS HTML5 Canvas loop.
+
+Phase 5: UX Refinement (8h): Add neon-glow aesthetics and mobile-touch support for dragging nodes.
+
+Project 3: Vertex — AI-Architectural 3D Visualizer
+
+Focus: WebGL (3D), Generative AI, and Spatial Logic.
+Estimated Cost: 0 Yen (Zero-Cost Stack).
+
+Detailed Features
+
+Natural Language to 3D: Enter "A modern room with a red chair" and watch the 3D scene build itself.
+
+Interactive Viewport: A full WebGL canvas where users can rotate, zoom, and click on 3D objects to edit them.
+
+Dynamic Lighting: Real-time shadows, point lights, and environment mapping (HDRI).
+
+Procedural Layout: An algorithm that prevents 3D meshes from overlapping when the AI generates a room.
+
+Development Phases
+
+Phase 1: WebGL Foundation (10h): Setup React Three Fiber (R3F), a basic scene, a floor, and orbit controls.
+
+Phase 2: Asset Pipeline (12h): Build a library of GLTF/GLB models (chairs, tables) and a system to load them dynamically.
+
+Phase 3: AI Parser (15h): Use the Gemini API to turn user text into a JSON map of objects and coordinates.
+
+Phase 4: Interaction System (15h): Implement ray-casting so users can click 3D objects to change their color or position.
+
+Phase 5: Post-Processing (8h): Add bloom effects, soft shadows, and a "Blueprint" mode toggle for an architectural feel.
+
+Zero-Cost Infrastructure Guide
+
+All projects utilize "Developer First" platforms that offer generous free tiers:
+
+Hosting: Vercel (Free for personal projects with CI/CD).
+
+Database: Neon PostgreSQL (Serverless, free tier includes 512MB storage and generous compute).
+
+Authentication: Clerk (Free up to 10,000 monthly active users).
+
+AI (Vertex): Google AI Studio / Gemini API (Free tier allows enough RPM for a personal portfolio).
+
+Multiplayer (Aether): Liveblocks (Free tier supports up to 100 simultaneous connections).
+
+Assets: Use Lucide React for icons and Poly Haven or Market64 for free 3D GLTF models.
