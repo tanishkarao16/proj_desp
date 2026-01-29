@@ -1,0 +1,101 @@
+🏰 The Successor's Checklist: 173 High-Signal Questions
+
+This is your master curriculum. Each question represents a "Pattern." If you master the pattern, you can solve any variation.
+
+1. Arrays & Hashing (15 Questions)
+
+Easy: Two Sum, Contains Duplicate, Valid Anagram.
+
+Medium: Group Anagrams, Top K Frequent Elements, Product of Array Except Self, Valid Sudoku, Longest Consecutive Sequence.
+
+Hard: First Missing Positive, Trapping Rain Water.
+
+2. Two Pointers (10 Questions)
+
+Easy: Valid Palindrome, Move Zeroes.
+
+Medium: Two Sum II, 3Sum, Container With Most Water, Remove Duplicates from Sorted Array II.
+
+Hard: Trapping Rain Water (Two Pointer approach), Minimum Window Substring.
+
+3. Sliding Window (10 Questions)
+
+Easy: Best Time to Buy and Sell Stock.
+
+Medium: Longest Substring Without Repeating Characters, Longest Repeating Character Replacement, Permutation in String.
+
+Hard: Minimum Window Substring, Sliding Window Maximum.
+
+4. Stacks & Queues (10 Questions)
+
+Easy: Valid Parentheses, Implement Stack using Queues.
+
+Medium: Min Stack, Generate Parentheses, Daily Temperatures, Evaluate Reverse Polish Notation.
+
+Hard: Largest Rectangle in Histogram, Sliding Window Maximum.
+
+5. Linked Lists (10 Questions)
+
+Easy: Reverse Linked List, Merge Two Sorted Lists.
+
+Medium: Reorder List, Remove Nth Node From End of List, Copy List with Random Pointer, Add Two Numbers, Linked List Cycle II.
+
+Hard: Merge k Sorted Lists, Reverse Nodes in k-Group, LRU Cache (The Senior Interview Classic).
+
+6. Binary Search (10 Questions)
+
+Easy: Binary Search, Search Insert Position.
+
+Medium: Search a 2D Matrix, Koko Eating Bananas, Find Minimum in Rotated Sorted Array, Search in Rotated Sorted Array, Time Based Key-Value Store.
+
+Hard: Median of Two Sorted Arrays.
+
+7. Trees & Tries (20 Questions)
+
+Easy: Invert Binary Tree, Maximum Depth of Binary Tree, Diameter of Binary Tree, Balanced Binary Tree, Same Tree, Subtree of Another Tree.
+
+Medium: Lowest Common Ancestor of a BST, Binary Tree Level Order Traversal, Binary Tree Right Side View, Count Good Nodes in Binary Tree, Validate Binary Search Tree, Kth Smallest Element in a BST, Construct Binary Tree from Preorder and Inorder Traversal, Implement Trie (Prefix Tree), Design Add and Search Words Data Structure.
+
+Hard: Binary Tree Maximum Path Sum, Serialize and Deserialize Binary Tree, Word Search II.
+
+8. Heaps / Priority Queues (10 Questions)
+
+Easy: Kth Largest Element in a Stream.
+
+Medium: Last Stone Weight, K Closest Points to Origin, Kth Largest Element in an Array, Task Scheduler, Design Twitter.
+
+Hard: Find Median from Data Stream.
+
+9. Backtracking (13 Questions)
+
+Medium: Subsets, Combination Sum, Permutations, Subsets II, Word Search, Palindrome Partitioning, Letter Combinations of a Phone Number.
+
+Hard: N-Queens.
+
+10. Graphs (18 Questions)
+
+Medium: Number of Islands, Clone Graph, Max Area of Island, Pacific Atlantic Water Flow, Surrounded Regions, Course Schedule, Course Schedule II, Redundant Connection, Number of Connected Components in an Undirected Graph.
+
+Hard: Word Ladder, Alien Dictionary.
+
+11. Dynamic Programming (30 Questions)
+
+Easy: Climbing Stairs, Min Cost Climbing Stairs.
+
+Medium: House Robber, House Robber II, Longest Palindromic Substring, Palindromic Substrings, Decode Ways, Coin Change, Maximum Product Subarray, Longest Increasing Subsequence, Partition Equal Subset Sum.
+
+Hard: Longest Common Subsequence, Edit Distance, Burst Balloons, Regular Expression Matching.
+
+12. Bit Manipulation & Math (12 Questions)
+
+Easy: Single Number, Number of 1 Bits, Counting Bits, Reverse Bits, Missing Number.
+
+Medium: Sum of Two Integers, Reverse Integer.
+
+Hard: Max Points on a Line.
+
+13. System Design & LLD (15 Case Studies)
+
+Medium: Design a Parking Lot, Design a Vending Machine, Design a URL Shortener.
+
+Hard: Design WhatsApp/Messenger, Design Netflix/YouTube, Design Uber/Grab.
